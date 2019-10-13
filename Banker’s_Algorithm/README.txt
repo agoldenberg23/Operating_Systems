@@ -1,3 +1,8 @@
+This program simulates a first in first out algorithm and a banker’s 
+algorithm on a set of mock programs in order to see positive and 
+negative aspects of both algorithms.
+
+
 This is a java file and can be ran with the following commands:
 javac Banker.java
 java Banker <Input File Name>
